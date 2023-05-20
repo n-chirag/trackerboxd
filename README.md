@@ -27,3 +27,7 @@ If you want a tracker added, feel free to open an issue/PR!
 ## Screenshot
 
 ![screenshot](https://i.imgur.com/BtQpttF.png)
+
+20-05-2023
+by n-chirag
+Updated the website links as most were dead
